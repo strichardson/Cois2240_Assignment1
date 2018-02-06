@@ -1,5 +1,5 @@
 /* Authour: Stednisha Richardson
- * COIS 2240 - Assignment 3 - Recursive & Iteration Comparison
+ * COIS 2240 - Assignment 1 - Recursive & Iteration Comparison
  * 6/2/2018
  */
 
